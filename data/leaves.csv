@@ -1,0 +1,43 @@
+name,employee,employee_name,leave_type,from_date,to_date,total_leave_days,status
+HR-LAP-2026-00102,HR-EMP-00154,Ganesh Vallamla,Previous Year Sick Leaves,2026-02-02,2026-02-02,1.0,Approved
+HR-LAP-2026-00103,HR-EMP-00014,Ramagiri Saiteja,Previous Year Earned Leave,2026-02-02,2026-02-02,1.0,Approved
+HR-LAP-2026-00105,HR-EMP-00039,Kotturi Supriya,Previous Year Sick Leaves,2026-02-02,2026-02-03,2.0,Approved
+HR-LAP-2026-00115,HR-EMP-00046,Pramod Kumar Kodoju,Previous Year Sick Leaves,2026-02-02,2026-02-03,2.0,Approved
+HR-LAP-2026-00110,HR-EMP-00051,K Anjali Achary,Sick Leave,2026-02-03,2026-02-03,1.0,Approved
+HR-LAP-2026-00017,HR-EMP-00127,Alessandro Tiberio,Annual Leave,2026-02-04,2026-02-04,1.0,Approved
+HR-LAP-2026-00106,HR-EMP-00077,Younus Shaik,Previous Year Earned Leave,2026-02-04,2026-02-04,1.0,Open
+HR-LAP-2026-00108,HR-EMP-00042,Amar Sai Veeravalli,Earned Leave,2026-02-04,2026-02-05,2.0,Approved
+HR-LAP-2026-00109,HR-EMP-00007,Mohd Khaja Shujauddin,Previous Year Sick Leaves,2026-02-04,2026-02-04,1.0,Approved
+HR-LAP-2026-00111,HR-EMP-00084,Heet Hiteshkumar Gorakhiya,Sick Leave,2026-02-04,2026-02-04,0.5,Approved
+HR-LAP-2026-00113,HR-EMP-00009,Vishal Kumar,Casual Leave,2026-02-04,2026-02-04,1.0,Approved
+HR-LAP-2026-00114,HR-EMP-00084,Heet Hiteshkumar Gorakhiya,Casual Leave,2026-02-05,2026-02-05,1.0,Approved
+HR-LAP-2026-00116,HR-EMP-00153,Apparao Buddha,Sick Leave,2026-02-05,2026-02-05,1.0,Approved
+HR-LAP-2026-00117,HR-EMP-00032,Sindhu Pogula,Earned Leave,2026-02-05,2026-02-05,1.0,Approved
+HR-LAP-2026-00112,HR-EMP-00084,Heet Hiteshkumar Gorakhiya,Earned Leave,2026-02-06,2026-02-06,1.0,Approved
+HR-LAP-2026-00119,HR-EMP-00177,Srigiri Sai Manish,Earned Leave,2026-02-06,2026-02-06,1.0,Approved
+HR-LAP-2026-00120,HR-EMP-00040,Tejinderpal Singh Jadhav,Earned Leave,2026-02-06,2026-02-06,1.0,Approved
+HR-LAP-2026-00121,HR-EMP-00032,Sindhu Pogula,Casual Leave,2026-02-06,2026-02-06,0.5,Open
+HR-LAP-2026-00122,HR-EMP-00032,Sindhu Pogula,Sick Leave,2026-02-06,2026-02-06,0.5,Open
+HR-LAP-2026-00123,HR-EMP-00010,Amol  Patalay,Previous Year Sick Leaves,2026-02-06,2026-02-06,1.0,Open
+HR-LAP-2025-01116,HR-EMP-00129,Sidharth Kondapuram,Leave Without Pay,2026-02-09,2026-02-13,5.0,Approved
+HR-LAP-2026-00031,HR-EMP-00127,Alessandro Tiberio,Annual Leave,2026-02-09,2026-02-13,5.0,Approved
+HR-LAP-2026-00092,HR-EMP-00096,Manish Gari,Previous Year Earned Leave,2026-02-09,2026-02-09,1.0,Approved
+HR-LAP-2026-00124,HR-EMP-00041,Prajakta Shikare Maruti,Earned Leave,2026-02-09,2026-02-09,1.0,Approved
+HR-LAP-2026-00125,HR-EMP-00064,Kontham Anand kumar,Previous Year Sick Leaves,2026-02-09,2026-02-09,0.5,Approved
+HR-LAP-2026-00127,HR-EMP-00096,Manish Gari,Previous Year Sick Leaves,2026-02-10,2026-02-10,1.0,Open
+HR-LAP-2026-00128,HR-EMP-00020,Sirisha Achnala,Previous Year Sick Leaves,2026-02-10,2026-02-10,1.0,Approved
+HR-LAP-2026-00129,HR-EMP-00074,Vikram Dattatray Danvale,Previous Year Sick Leaves,2026-02-10,2026-02-10,1.0,Approved
+HR-LAP-2026-00132,HR-EMP-00020,Sirisha Achnala,Sick Leave,2026-02-11,2026-02-11,1.0,Approved
+HR-LAP-2026-00133,HR-EMP-00084,Heet Hiteshkumar Gorakhiya,Leave Without Pay,2026-02-11,2026-02-11,1.0,Approved
+HR-LAP-2026-00130,HR-EMP-00037,Chandana Gidugu,Previous Year Earned Leave,2026-02-12,2026-02-13,2.0,Approved
+HR-LAP-2026-00139,HR-EMP-00109,Nagasandeep Motupalli,Previous Year Earned Leave,2026-02-12,2026-02-12,0.5,Open
+HR-LAP-2026-00131,HR-EMP-00002,Bommadevara Kavyabharathi,Previous Year Earned Leave,2026-02-13,2026-02-13,1.0,Approved
+HR-LAP-2026-00135,HR-EMP-00033,Kotla Pavani Priyanka,Previous Year Sick Leaves,2026-02-13,2026-02-13,0.5,Cancelled
+HR-LAP-2026-00126,HR-EMP-00054,Rohit Kumar,Earned Leave,2026-02-16,2026-02-16,1.0,Approved
+HR-LAP-2026-00137,HR-EMP-00086,Rishi Soni,Earned Leave,2026-02-16,2026-02-16,1.0,Open
+HR-LAP-2026-00142,HR-EMP-00135,Ashok Munagala,Previous Year Sick Leaves,2026-02-16,2026-02-16,1.0,Open
+HR-LAP-2026-00141,HR-EMP-00084,Heet Hiteshkumar Gorakhiya,Leave Without Pay,2026-02-17,2026-02-17,1.0,Approved
+HR-LAP-2026-00143,HR-EMP-00161,Venkat Murthy Velamala,Sick Leave,2026-02-17,2026-02-17,1.0,Open
+HR-LAP-2026-00144,HR-EMP-00064,Kontham Anand kumar,Previous Year Earned Leave,2026-02-17,2026-02-17,0.5,Approved
+HR-LAP-2026-00145,HR-EMP-00026,Venkata Lalitha Suresh Emani,Sick Leave,2026-02-17,2026-02-17,1.0,Open
+HR-LAP-2026-00146,HR-EMP-00064,Kontham Anand kumar,Casual Leave,2026-02-17,2026-02-17,0.5,Approved

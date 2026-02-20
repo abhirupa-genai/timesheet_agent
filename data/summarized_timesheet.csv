@@ -1,0 +1,485 @@
+Timesheet ID,NstarX Emp ID,Employee Name,Work Date,Activity Type,Total Working Hours,Project Name,Client Name,Timesheet Approver,Timesheet Status
+TS-2026-00699,NSX_C0148,Adrian Paleacu,2026-02-09,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00699,NSX_C0148,Adrian Paleacu,2026-02-10,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00699,NSX_C0148,Adrian Paleacu,2026-02-11,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00699,NSX_C0148,Adrian Paleacu,2026-02-12,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00699,NSX_C0148,Adrian Paleacu,2026-02-13,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00782,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-09,Development,1.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00782,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-09,Development,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00782,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-09,Integration and Deployment,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00782,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-09,Meetings,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00782,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-09,Development,3.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00783,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-10,Meetings,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00783,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-10,Development,3.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00783,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-10,Development,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00783,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-10,Integration and Deployment,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00783,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-10,Development,1.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00784,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-11,Development,3.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00784,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-11,Development,1.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00784,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-11,Integration and Deployment,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00784,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-11,Development,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00784,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-11,Meetings,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00785,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-12,Development,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00785,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-12,Development,1.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00785,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-12,Meetings,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00785,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-12,Development,3.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00785,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-12,Integration and Deployment,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00786,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-13,Development,3.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00786,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-13,Development,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00786,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-13,Integration and Deployment,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00786,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-13,Development,1.5,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00786,NSX_0418,Akunuri Jai Tiru Ganesh,2026-02-13,Meetings,1.0,SHI Phase  2.0,SHI,Manjrekar Manish Raj,Open
+TS-2026-00708,NSX_0340,Amar Sai Veeravalli,2026-02-09,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00708,NSX_0340,Amar Sai Veeravalli,2026-02-10,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00708,NSX_0340,Amar Sai Veeravalli,2026-02-11,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00708,NSX_0340,Amar Sai Veeravalli,2026-02-12,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00708,NSX_0340,Amar Sai Veeravalli,2026-02-13,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00624,NSX_0436,Apparao Buddha,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00624,NSX_0436,Apparao Buddha,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00624,NSX_0436,Apparao Buddha,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00624,NSX_0436,Apparao Buddha,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00624,NSX_0436,Apparao Buddha,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00696,NSX_0421,Arya Pulkit,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00696,NSX_0421,Arya Pulkit,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00696,NSX_0421,Arya Pulkit,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00696,NSX_0421,Arya Pulkit,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00696,NSX_0421,Arya Pulkit,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00668,NSX_0424,Ashok Munagala,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00668,NSX_0424,Ashok Munagala,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00668,NSX_0424,Ashok Munagala,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00668,NSX_0424,Ashok Munagala,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00668,NSX_0424,Ashok Munagala,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00733,NSX_0446,Ayush Kumar,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00733,NSX_0446,Ayush Kumar,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00733,NSX_0446,Ayush Kumar,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00733,NSX_0446,Ayush Kumar,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00733,NSX_0446,Ayush Kumar,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00669,NSX_0445,Bellum Sai Siva Rama Krishna,2026-02-09,Planning,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Approved
+TS-2026-00669,NSX_0445,Bellum Sai Siva Rama Krishna,2026-02-10,Planning,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Approved
+TS-2026-00669,NSX_0445,Bellum Sai Siva Rama Krishna,2026-02-11,Planning,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Approved
+TS-2026-00669,NSX_0445,Bellum Sai Siva Rama Krishna,2026-02-12,Planning,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Approved
+TS-2026-00669,NSX_0445,Bellum Sai Siva Rama Krishna,2026-02-13,Planning,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Approved
+TS-2026-00710,NSX_0375,Bommadevara Kavyabharathi,2026-02-09,Testing,8.0,EUC Phase 2 Extension,SHI,Mohin Shaik,Open
+TS-2026-00710,NSX_0375,Bommadevara Kavyabharathi,2026-02-10,Testing,8.0,EUC Phase 2 Extension,SHI,Mohin Shaik,Open
+TS-2026-00710,NSX_0375,Bommadevara Kavyabharathi,2026-02-11,Testing,8.0,EUC Phase 2 Extension,SHI,Mohin Shaik,Open
+TS-2026-00710,NSX_0375,Bommadevara Kavyabharathi,2026-02-12,Testing,8.0,EUC Phase 2 Extension,SHI,Mohin Shaik,Open
+TS-2026-00715,NSX_0329,Chandana Gidugu,2026-02-09,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00715,NSX_0329,Chandana Gidugu,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00715,NSX_0329,Chandana Gidugu,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00662,NSX_0406,Chowdarapu Srivatsa,2026-02-09,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00662,NSX_0406,Chowdarapu Srivatsa,2026-02-10,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00662,NSX_0406,Chowdarapu Srivatsa,2026-02-11,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00662,NSX_0406,Chowdarapu Srivatsa,2026-02-12,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00662,NSX_0406,Chowdarapu Srivatsa,2026-02-13,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00677,NSX_0456,Dakshith Gundapuneni,2026-02-09,Testing,5.971944,Fresher Training,NStarX-internal,Sujikar Reddy,Approved
+TS-2026-00677,NSX_0456,Dakshith Gundapuneni,2026-02-10,Testing,7.014444,Fresher Training,NStarX-internal,Sujikar Reddy,Approved
+TS-2026-00677,NSX_0456,Dakshith Gundapuneni,2026-02-11,Testing,6.45,Fresher Training,NStarX-internal,Sujikar Reddy,Approved
+TS-2026-00677,NSX_0456,Dakshith Gundapuneni,2026-02-12,Testing,6.1,Fresher Training,NStarX-internal,Sujikar Reddy,Approved
+TS-2026-00677,NSX_0456,Dakshith Gundapuneni,2026-02-13,Testing,7.005556,Fresher Training,NStarX-internal,Sujikar Reddy,Approved
+TS-2026-00661,NSX_0452,Debopriyo Ghosh,2026-02-09,Training and Knowledge Transfer,8.0,Learning & Development,Internal NStarX,Sujikar Reddy,Approved
+TS-2026-00661,NSX_0452,Debopriyo Ghosh,2026-02-10,Training and Knowledge Transfer,8.0,Learning & Development,Internal NStarX,Sujikar Reddy,Approved
+TS-2026-00661,NSX_0452,Debopriyo Ghosh,2026-02-11,Training and Knowledge Transfer,8.0,Learning & Development,Internal NStarX,Sujikar Reddy,Approved
+TS-2026-00661,NSX_0452,Debopriyo Ghosh,2026-02-12,Training and Knowledge Transfer,8.0,Learning & Development,Internal NStarX,Sujikar Reddy,Approved
+TS-2026-00661,NSX_0452,Debopriyo Ghosh,2026-02-13,Training and Knowledge Transfer,8.0,Learning & Development,Internal NStarX,Sujikar Reddy,Approved
+TS-2026-00701,NSX_US0201,Deepak Devaraj,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol  Patalay,Open
+TS-2026-00701,NSX_US0201,Deepak Devaraj,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol  Patalay,Open
+TS-2026-00701,NSX_US0201,Deepak Devaraj,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol  Patalay,Open
+TS-2026-00701,NSX_US0201,Deepak Devaraj,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol  Patalay,Open
+TS-2026-00701,NSX_US0201,Deepak Devaraj,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol  Patalay,Open
+TS-2026-00800,NSX_0338,Devadula Sai Sudheer,2026-02-09,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00800,NSX_0338,Devadula Sai Sudheer,2026-02-10,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00800,NSX_0338,Devadula Sai Sudheer,2026-02-11,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00800,NSX_0338,Devadula Sai Sudheer,2026-02-12,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00800,NSX_0338,Devadula Sai Sudheer,2026-02-13,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00682,NSX_0389,Dosala Shiva Shankaraiah,2026-02-09,Support and Maintenance,8.0,Operations & Support,Internal IT,Amol Patalay,Open
+TS-2026-00682,NSX_0389,Dosala Shiva Shankaraiah,2026-02-10,Support and Maintenance,8.0,Operations & Support,Internal IT,Amol Patalay,Open
+TS-2026-00682,NSX_0389,Dosala Shiva Shankaraiah,2026-02-11,Support and Maintenance,8.0,Operations & Support,Internal IT,Amol Patalay,Open
+TS-2026-00682,NSX_0389,Dosala Shiva Shankaraiah,2026-02-12,Support and Maintenance,8.0,Operations & Support,Internal IT,Amol Patalay,Open
+TS-2026-00682,NSX_0389,Dosala Shiva Shankaraiah,2026-02-13,Support and Maintenance,8.0,Operations & Support,Internal IT,Amol Patalay,Open
+TS-2026-00684,NSX_C0194,Gabriel Trautmann,2026-02-09,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00684,NSX_C0194,Gabriel Trautmann,2026-02-10,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00684,NSX_C0194,Gabriel Trautmann,2026-02-11,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00684,NSX_C0194,Gabriel Trautmann,2026-02-12,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00684,NSX_C0194,Gabriel Trautmann,2026-02-13,Development,8.0,DLNP,Distributed Learning NstarX Platform,Dakshina Murthy Karra,Open
+TS-2026-00680,NSX_0437,Ganesh Vallamla,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00680,NSX_0437,Ganesh Vallamla,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00680,NSX_0437,Ganesh Vallamla,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00680,NSX_0437,Ganesh Vallamla,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00680,NSX_0437,Ganesh Vallamla,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00676,NSX_0434,Geethika Kakarla,2026-02-09,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00676,NSX_0434,Geethika Kakarla,2026-02-10,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00676,NSX_0434,Geethika Kakarla,2026-02-11,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00676,NSX_0434,Geethika Kakarla,2026-02-12,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00676,NSX_0434,Geethika Kakarla,2026-02-13,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00703,NSX_0447,Gurunath Kamale,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00703,NSX_0447,Gurunath Kamale,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00703,NSX_0447,Gurunath Kamale,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00703,NSX_0447,Gurunath Kamale,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00703,NSX_0447,Gurunath Kamale,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00711,NSX_0407,Inguva Satyavenkata Sai Kumar,2026-02-09,Development,8.0,HRMS,NStarX-internal,Mohin Shaik,Approved
+TS-2026-00711,NSX_0407,Inguva Satyavenkata Sai Kumar,2026-02-10,Development,8.0,HRMS,NStarX-internal,Mohin Shaik,Approved
+TS-2026-00711,NSX_0407,Inguva Satyavenkata Sai Kumar,2026-02-11,Development,8.0,HRMS,NStarX-internal,Mohin Shaik,Approved
+TS-2026-00711,NSX_0407,Inguva Satyavenkata Sai Kumar,2026-02-12,Development,8.0,HRMS,NStarX-internal,Mohin Shaik,Approved
+TS-2026-00711,NSX_0407,Inguva Satyavenkata Sai Kumar,2026-02-13,Development,8.0,HRMS,NStarX-internal,Mohin Shaik,Approved
+TS-2026-00688,NSX_0339,Jabeen Khanam,2026-02-09,Testing,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00688,NSX_0339,Jabeen Khanam,2026-02-10,Testing,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00688,NSX_0339,Jabeen Khanam,2026-02-11,Testing,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00688,NSX_0339,Jabeen Khanam,2026-02-12,Testing,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00688,NSX_0339,Jabeen Khanam,2026-02-13,Testing,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00683,NSX_C0198,Jesus Fernandez,2026-02-09,HR Activities,8.0,HR-Spain,NStarX Internal,Suman Kalyan,Open
+TS-2026-00683,NSX_C0198,Jesus Fernandez,2026-02-10,HR Activities,8.0,HR-Spain,NStarX Internal,Suman Kalyan,Open
+TS-2026-00683,NSX_C0198,Jesus Fernandez,2026-02-11,HR Activities,8.0,HR-Spain,NStarX Internal,Suman Kalyan,Open
+TS-2026-00683,NSX_C0198,Jesus Fernandez,2026-02-12,HR Activities,8.0,HR-Spain,NStarX Internal,Suman Kalyan,Open
+TS-2026-00683,NSX_C0198,Jesus Fernandez,2026-02-13,HR Activities,8.0,HR-Spain,NStarX Internal,Suman Kalyan,Open
+TS-2026-00635,NSX_C0207,Jhanvi Sharma,2026-02-09,calling,9.333333,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00640,NSX_C0207,Jhanvi Sharma,2026-02-10,calling,9.25,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00649,NSX_C0207,Jhanvi Sharma,2026-02-11,calling,9.25,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00752,NSX_C0207,Jhanvi Sharma,2026-02-12,calling,4.666667,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00678,NSX_0382,K Anjali Achary,2026-02-09,HR Activities,8.0,HR Support,NStarX-SG&A,Younus Shaik,Approved
+TS-2026-00678,NSX_0382,K Anjali Achary,2026-02-10,HR Activities,8.0,HR Support,NStarX-SG&A,Younus Shaik,Approved
+TS-2026-00678,NSX_0382,K Anjali Achary,2026-02-11,HR Activities,8.0,HR Support,NStarX-SG&A,Younus Shaik,Approved
+TS-2026-00678,NSX_0382,K Anjali Achary,2026-02-12,HR Activities,8.0,HR Support,NStarX-SG&A,Younus Shaik,Approved
+TS-2026-00678,NSX_0382,K Anjali Achary,2026-02-13,HR Activities,8.0,HR Support,NStarX-SG&A,Younus Shaik,Approved
+TS-2026-00691,NSX_0363,Keertipati Chandu Varma,2026-02-09,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00691,NSX_0363,Keertipati Chandu Varma,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00691,NSX_0363,Keertipati Chandu Varma,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00691,NSX_0363,Keertipati Chandu Varma,2026-02-12,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00691,NSX_0363,Keertipati Chandu Varma,2026-02-13,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00616,NSX_0401,Kontham Anand kumar,2026-02-09,Support and Maintenance,4.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00616,NSX_0401,Kontham Anand kumar,2026-02-10,Support and Maintenance,10.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00616,NSX_0401,Kontham Anand kumar,2026-02-11,Support and Maintenance,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00616,NSX_0401,Kontham Anand kumar,2026-02-12,Support and Maintenance,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00616,NSX_0401,Kontham Anand kumar,2026-02-13,Support and Maintenance,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00687,NSX_0379,Kotla Pavani Priyanka,2026-02-09,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00687,NSX_0379,Kotla Pavani Priyanka,2026-02-10,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00687,NSX_0379,Kotla Pavani Priyanka,2026-02-11,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00687,NSX_0379,Kotla Pavani Priyanka,2026-02-12,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00687,NSX_0379,Kotla Pavani Priyanka,2026-02-13,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00721,NSX_0335,Kotturi Supriya,2026-02-09,Testing,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama Krishna,Approved
+TS-2026-00721,NSX_0335,Kotturi Supriya,2026-02-10,Testing,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama Krishna,Approved
+TS-2026-00721,NSX_0335,Kotturi Supriya,2026-02-11,Testing,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama Krishna,Approved
+TS-2026-00721,NSX_0335,Kotturi Supriya,2026-02-12,Testing,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama Krishna,Approved
+TS-2026-00721,NSX_0335,Kotturi Supriya,2026-02-13,Testing,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama Krishna,Approved
+TS-2026-00719,NSX_0450,Kriti Bhagat,2026-02-09,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00719,NSX_0450,Kriti Bhagat,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00719,NSX_0450,Kriti Bhagat,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00719,NSX_0450,Kriti Bhagat,2026-02-12,Execution,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00719,NSX_0450,Kriti Bhagat,2026-02-13,Execution,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00722,NSX_0429,Manish Gari,2026-02-11,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00722,NSX_0429,Manish Gari,2026-02-12,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00722,NSX_0429,Manish Gari,2026-02-13,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00787,NSX_0442,Manjrekar Manish Raj,2026-02-09,Design,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00787,NSX_0442,Manjrekar Manish Raj,2026-02-10,Design,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00787,NSX_0442,Manjrekar Manish Raj,2026-02-11,Design,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00787,NSX_0442,Manjrekar Manish Raj,2026-02-12,Design,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00787,NSX_0442,Manjrekar Manish Raj,2026-02-13,Development,8.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00690,NSX_0455,MN Prasad Reddy,2026-02-09,Training and Knowledge Transfer,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00690,NSX_0455,MN Prasad Reddy,2026-02-10,Training and Knowledge Transfer,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00690,NSX_0455,MN Prasad Reddy,2026-02-11,Training and Knowledge Transfer,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00690,NSX_0455,MN Prasad Reddy,2026-02-12,Training and Knowledge Transfer,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00690,NSX_0455,MN Prasad Reddy,2026-02-13,Training and Knowledge Transfer,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00726,NSX_0336,Mohd Khaja Shujauddin,2026-02-09,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00726,NSX_0336,Mohd Khaja Shujauddin,2026-02-10,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00726,NSX_0336,Mohd Khaja Shujauddin,2026-02-11,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00726,NSX_0336,Mohd Khaja Shujauddin,2026-02-12,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00726,NSX_0336,Mohd Khaja Shujauddin,2026-02-13,Testing,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00666,NSX_0444,Mohin Shaik,2026-02-09,Project Management,8.0,GME Manager,Sousa Venture,Vishal Kumar,Approved
+TS-2026-00666,NSX_0444,Mohin Shaik,2026-02-10,Project Management,8.0,GME Manager,Sousa Venture,Vishal Kumar,Approved
+TS-2026-00666,NSX_0444,Mohin Shaik,2026-02-11,Project Management,8.0,GME Manager,Sousa Venture,Vishal Kumar,Approved
+TS-2026-00666,NSX_0444,Mohin Shaik,2026-02-12,Project Management,8.0,GME Manager,Sousa Venture,Vishal Kumar,Approved
+TS-2026-00666,NSX_0444,Mohin Shaik,2026-02-13,Project Management,8.0,GME Manager,Sousa Venture,Vishal Kumar,Approved
+TS-2026-00742,NSX_0440,Nagasandeep Motupalli,2026-02-09,Meetings,1.0,EchoCred,Healthstream,Amol Patalay,Open
+TS-2026-00744,NSX_0440,Nagasandeep Motupalli,2026-02-09,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00744,NSX_0440,Nagasandeep Motupalli,2026-02-10,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00742,NSX_0440,Nagasandeep Motupalli,2026-02-10,Meetings,1.0,EchoCred,Healthstream,Amol Patalay,Open
+TS-2026-00742,NSX_0440,Nagasandeep Motupalli,2026-02-11,Meetings,1.0,EchoCred,Healthstream,Amol Patalay,Open
+TS-2026-00744,NSX_0440,Nagasandeep Motupalli,2026-02-11,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00742,NSX_0440,Nagasandeep Motupalli,2026-02-12,Development,4.0,EchoCred,Healthstream,Amol Patalay,Open
+TS-2026-00742,NSX_0440,Nagasandeep Motupalli,2026-02-13,Development,3.0,EchoCred,Healthstream,Amol Patalay,Open
+TS-2026-00744,NSX_0440,Nagasandeep Motupalli,2026-02-13,Development,6.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00660,NSX_0435,Narayana Reddy Bogireddy,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00660,NSX_0435,Narayana Reddy Bogireddy,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00660,NSX_0435,Narayana Reddy Bogireddy,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00660,NSX_0435,Narayana Reddy Bogireddy,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00660,NSX_0435,Narayana Reddy Bogireddy,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00709,NSX_0432,Naresh Sowoju,2026-02-09,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00709,NSX_0432,Naresh Sowoju,2026-02-10,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00709,NSX_0432,Naresh Sowoju,2026-02-11,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00709,NSX_0432,Naresh Sowoju,2026-02-12,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00709,NSX_0432,Naresh Sowoju,2026-02-13,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00791,NSX_0400,Nikhil Sham Vanjari,2026-02-09,Development,9.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00791,NSX_0400,Nikhil Sham Vanjari,2026-02-10,Development,9.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00791,NSX_0400,Nikhil Sham Vanjari,2026-02-11,Development,9.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00791,NSX_0400,Nikhil Sham Vanjari,2026-02-12,Development,9.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00791,NSX_0400,Nikhil Sham Vanjari,2026-02-13,Development,9.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00697,NSX_0212,Nuty Vanitha,2026-02-09,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00697,NSX_0212,Nuty Vanitha,2026-02-10,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00697,NSX_0212,Nuty Vanitha,2026-02-11,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00697,NSX_0212,Nuty Vanitha,2026-02-12,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00697,NSX_0212,Nuty Vanitha,2026-02-13,Testing,8.0,QA  Manual,Healthstream,Smruthi Kothakonda,Approved
+TS-2026-00720,NSX_0333,Prajakta Shikare Maruti,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00720,NSX_0333,Prajakta Shikare Maruti,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00720,NSX_0333,Prajakta Shikare Maruti,2026-02-12,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00720,NSX_0333,Prajakta Shikare Maruti,2026-02-13,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00732,NSX_0220,Pramod Kumar Kodoju,2026-02-09,Execution,8.0,Finance Support,NStarX-SG&A,Syam Devarakonda,Approved
+TS-2026-00732,NSX_0220,Pramod Kumar Kodoju,2026-02-10,Execution,8.0,Finance Support,NStarX-SG&A,Syam Devarakonda,Approved
+TS-2026-00732,NSX_0220,Pramod Kumar Kodoju,2026-02-11,Execution,8.0,Finance Support,NStarX-SG&A,Syam Devarakonda,Approved
+TS-2026-00732,NSX_0220,Pramod Kumar Kodoju,2026-02-12,Execution,8.0,Finance Support,NStarX-SG&A,Syam Devarakonda,Approved
+TS-2026-00732,NSX_0220,Pramod Kumar Kodoju,2026-02-13,Execution,8.0,Finance Support,NStarX-SG&A,Syam Devarakonda,Approved
+TS-2026-00689,NSX_0358,Raghava Harshavardhan Raju,2026-02-09,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00689,NSX_0358,Raghava Harshavardhan Raju,2026-02-10,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00689,NSX_0358,Raghava Harshavardhan Raju,2026-02-11,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00689,NSX_0358,Raghava Harshavardhan Raju,2026-02-13,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00706,NSX_0420,Rahul Holekeri,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00706,NSX_0420,Rahul Holekeri,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00706,NSX_0420,Rahul Holekeri,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00706,NSX_0420,Rahul Holekeri,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00706,NSX_0420,Rahul Holekeri,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00788,NSX_0153,Rajan Kumar  Sharma,2026-02-09,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Open
+TS-2026-00788,NSX_0153,Rajan Kumar  Sharma,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Open
+TS-2026-00788,NSX_0153,Rajan Kumar  Sharma,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Open
+TS-2026-00788,NSX_0153,Rajan Kumar  Sharma,2026-02-12,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Open
+TS-2026-00788,NSX_0153,Rajan Kumar  Sharma,2026-02-13,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Open
+TS-2026-00670,NSX_0233,Rajeshwar Bommena,2026-02-09,Execution,8.0,Finance Support,NStarX-SG&A,Syam Sundar Devarakonda,Approved
+TS-2026-00670,NSX_0233,Rajeshwar Bommena,2026-02-10,Execution,8.0,Finance Support,NStarX-SG&A,Syam Sundar Devarakonda,Approved
+TS-2026-00670,NSX_0233,Rajeshwar Bommena,2026-02-11,Execution,8.0,Finance Support,NStarX-SG&A,Syam Sundar Devarakonda,Approved
+TS-2026-00670,NSX_0233,Rajeshwar Bommena,2026-02-12,Execution,8.0,Finance Support,NStarX-SG&A,Syam Sundar Devarakonda,Approved
+TS-2026-00670,NSX_0233,Rajeshwar Bommena,2026-02-13,Execution,8.0,Finance Support,NStarX-SG&A,Syam Sundar Devarakonda,Approved
+TS-2026-00681,NSX_0427,Raju Pasunuri,2026-02-09,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00681,NSX_0427,Raju Pasunuri,2026-02-10,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00681,NSX_0427,Raju Pasunuri,2026-02-11,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00681,NSX_0427,Raju Pasunuri,2026-02-12,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00681,NSX_0427,Raju Pasunuri,2026-02-13,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00727,NSX_0043,Ramagiri Saiteja,2026-02-09,Development,8.0,CMD,Healthstream,Amol  Patalay,Open
+TS-2026-00727,NSX_0043,Ramagiri Saiteja,2026-02-10,Development,8.0,CMD,Healthstream,Amol  Patalay,Open
+TS-2026-00727,NSX_0043,Ramagiri Saiteja,2026-02-11,Development,8.0,CMD,Healthstream,Amol  Patalay,Open
+TS-2026-00727,NSX_0043,Ramagiri Saiteja,2026-02-12,Development,8.0,CMD,Healthstream,Amol  Patalay,Open
+TS-2026-00727,NSX_0043,Ramagiri Saiteja,2026-02-13,Development,8.0,CMD,Healthstream,Amol  Patalay,Open
+TS-2026-00698,NSX_0385,Ramesh Bevara,2026-02-09,Development,8.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00698,NSX_0385,Ramesh Bevara,2026-02-10,Development,8.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00698,NSX_0385,Ramesh Bevara,2026-02-11,Development,8.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00698,NSX_0385,Ramesh Bevara,2026-02-12,Development,8.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00698,NSX_0385,Ramesh Bevara,2026-02-13,Development,8.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00846,NSX_0415,Rishi Soni,2026-02-09,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00846,NSX_0415,Rishi Soni,2026-02-10,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00846,NSX_0415,Rishi Soni,2026-02-11,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00846,NSX_0415,Rishi Soni,2026-02-12,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00846,NSX_0415,Rishi Soni,2026-02-13,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Open
+TS-2026-00748,NSX_0393,Rohit Kumar,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00748,NSX_0393,Rohit Kumar,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00748,NSX_0393,Rohit Kumar,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00748,NSX_0393,Rohit Kumar,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00748,NSX_0393,Rohit Kumar,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00730,NSX_0189,Sai Krishna Andhavarapu,2026-02-09,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00730,NSX_0189,Sai Krishna Andhavarapu,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00730,NSX_0189,Sai Krishna Andhavarapu,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00730,NSX_0189,Sai Krishna Andhavarapu,2026-02-12,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00730,NSX_0189,Sai Krishna Andhavarapu,2026-02-13,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00716,NSX_0386,Sai Shiva Naga Gudla,2026-02-09,Planning,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00716,NSX_0386,Sai Shiva Naga Gudla,2026-02-10,Planning,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00716,NSX_0386,Sai Shiva Naga Gudla,2026-02-11,Planning,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00716,NSX_0386,Sai Shiva Naga Gudla,2026-02-12,Planning,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00716,NSX_0386,Sai Shiva Naga Gudla,2026-02-13,Planning,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00664,NSX_0431,Sai Srinivas Potla,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00664,NSX_0431,Sai Srinivas Potla,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00664,NSX_0431,Sai Srinivas Potla,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00664,NSX_0431,Sai Srinivas Potla,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00664,NSX_0431,Sai Srinivas Potla,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00713,NSX_0439,Sai Vyvaswath Bhupasamudram,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00713,NSX_0439,Sai Vyvaswath Bhupasamudram,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00713,NSX_0439,Sai Vyvaswath Bhupasamudram,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00713,NSX_0439,Sai Vyvaswath Bhupasamudram,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00713,NSX_0439,Sai Vyvaswath Bhupasamudram,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00674,NSX_0438,Saketh Dahagam,2026-02-09,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00674,NSX_0438,Saketh Dahagam,2026-02-10,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00674,NSX_0438,Saketh Dahagam,2026-02-11,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00674,NSX_0438,Saketh Dahagam,2026-02-12,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00674,NSX_0438,Saketh Dahagam,2026-02-13,Development,8.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00725,NSX_0409,Sanket Khushal Patil,2026-02-09,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00725,NSX_0409,Sanket Khushal Patil,2026-02-10,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00725,NSX_0409,Sanket Khushal Patil,2026-02-11,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00725,NSX_0409,Sanket Khushal Patil,2026-02-12,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00725,NSX_0409,Sanket Khushal Patil,2026-02-13,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00736,NSX_0414,Shaurya Prakash Singh,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00736,NSX_0414,Shaurya Prakash Singh,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00736,NSX_0414,Shaurya Prakash Singh,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00736,NSX_0414,Shaurya Prakash Singh,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00736,NSX_0414,Shaurya Prakash Singh,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00700,NSX_US0202,Shayne Pinto,2026-02-09,Project Management,4.0,Gen AI Lab 3.0,SHI,Ganesh Tyagali,Open
+TS-2026-00700,NSX_US0202,Shayne Pinto,2026-02-10,Project Management,4.0,Gen AI Lab 3.0,SHI,Ganesh Tyagali,Open
+TS-2026-00700,NSX_US0202,Shayne Pinto,2026-02-11,Project Management,4.0,Gen AI Lab 3.0,SHI,Ganesh Tyagali,Open
+TS-2026-00700,NSX_US0202,Shayne Pinto,2026-02-12,Project Management,4.0,Gen AI Lab 3.0,SHI,Ganesh Tyagali,Open
+TS-2026-00700,NSX_US0202,Shayne Pinto,2026-02-13,Project Management,4.0,Gen AI Lab 3.0,SHI,Ganesh Tyagali,Open
+TS-2026-00712,NSX_0408,Shriyans Kandhagatla,2026-02-09,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00712,NSX_0408,Shriyans Kandhagatla,2026-02-10,Code Review,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00712,NSX_0408,Shriyans Kandhagatla,2026-02-11,Research,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00712,NSX_0408,Shriyans Kandhagatla,2026-02-12,Research,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00712,NSX_0408,Shriyans Kandhagatla,2026-02-13,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00671,NSX_0362,Sindhu Pogula,2026-02-09,Development,4.0,.Net - Verity,Healthstream,Uday kiran Y,Approved
+TS-2026-00672,NSX_0362,Sindhu Pogula,2026-02-09,Development,4.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00671,NSX_0362,Sindhu Pogula,2026-02-10,Development,4.0,.Net - Verity,Healthstream,Uday kiran Y,Approved
+TS-2026-00672,NSX_0362,Sindhu Pogula,2026-02-10,Development,4.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00671,NSX_0362,Sindhu Pogula,2026-02-11,Development,4.0,.Net - Verity,Healthstream,Uday kiran Y,Approved
+TS-2026-00672,NSX_0362,Sindhu Pogula,2026-02-11,Development,4.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00672,NSX_0362,Sindhu Pogula,2026-02-12,Development,4.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00671,NSX_0362,Sindhu Pogula,2026-02-12,Development,4.0,.Net - Verity,Healthstream,Uday kiran Y,Approved
+TS-2026-00672,NSX_0362,Sindhu Pogula,2026-02-13,Development,4.0,TestEquity,TestEquity,Amol Patalay,Open
+TS-2026-00671,NSX_0362,Sindhu Pogula,2026-02-13,Development,4.0,.Net - Verity,Healthstream,Uday kiran Y,Approved
+TS-2026-00714,NSX_0278,Sirisha Achnala,2026-02-09,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00714,NSX_0278,Sirisha Achnala,2026-02-12,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00714,NSX_0278,Sirisha Achnala,2026-02-13,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00663,NSX_0330,Siva Reddy Evuri,2026-02-09,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00663,NSX_0330,Siva Reddy Evuri,2026-02-10,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00663,NSX_0330,Siva Reddy Evuri,2026-02-11,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00663,NSX_0330,Siva Reddy Evuri,2026-02-12,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00663,NSX_0330,Siva Reddy Evuri,2026-02-13,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00826,NSX_0247,Smruthi Kothakonda,2026-02-09,Testing,8.0,QA  Manual,Healthstream,Amol  Patalay,Open
+TS-2026-00826,NSX_0247,Smruthi Kothakonda,2026-02-10,Testing,8.0,QA  Manual,Healthstream,Amol  Patalay,Open
+TS-2026-00826,NSX_0247,Smruthi Kothakonda,2026-02-11,Testing,8.0,QA  Manual,Healthstream,Amol  Patalay,Open
+TS-2026-00826,NSX_0247,Smruthi Kothakonda,2026-02-12,Testing,8.0,QA  Manual,Healthstream,Amol  Patalay,Open
+TS-2026-00826,NSX_0247,Smruthi Kothakonda,2026-02-13,Testing,8.0,QA  Manual,Healthstream,Amol  Patalay,Open
+TS-2026-00723,NSX_0356,Sneha Sahu,2026-02-09,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00723,NSX_0356,Sneha Sahu,2026-02-10,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00723,NSX_0356,Sneha Sahu,2026-02-11,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00723,NSX_0356,Sneha Sahu,2026-02-12,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00723,NSX_0356,Sneha Sahu,2026-02-13,Planning,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00738,NSX_0425,Sowmya Kunapuli,2026-02-09,Integration and Deployment,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00739,NSX_0425,Sowmya Kunapuli,2026-02-09,Code Review,4.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00738,NSX_0425,Sowmya Kunapuli,2026-02-10,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00739,NSX_0425,Sowmya Kunapuli,2026-02-10,Communication,4.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00738,NSX_0425,Sowmya Kunapuli,2026-02-11,Integration and Deployment,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00739,NSX_0425,Sowmya Kunapuli,2026-02-11,Planning,4.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00738,NSX_0425,Sowmya Kunapuli,2026-02-12,Integration and Deployment,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00739,NSX_0425,Sowmya Kunapuli,2026-02-12,Research,4.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00739,NSX_0425,Sowmya Kunapuli,2026-02-13,Execution,4.0,Professional Publication Services,Souza Ventures,Amol Patalay,Open
+TS-2026-00738,NSX_0425,Sowmya Kunapuli,2026-02-13,Execution,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00729,NSX_0258,Sravani Koukuntla,2026-02-09,Testing,8.0,QA Manual,HealthStream,Amol Patalay,Open
+TS-2026-00729,NSX_0258,Sravani Koukuntla,2026-02-10,Testing,8.0,QA Manual,HealthStream,Amol Patalay,Open
+TS-2026-00729,NSX_0258,Sravani Koukuntla,2026-02-11,Testing,8.0,QA Manual,HealthStream,Amol Patalay,Open
+TS-2026-00729,NSX_0258,Sravani Koukuntla,2026-02-12,Testing,8.0,QA Manual,HealthStream,Amol Patalay,Open
+TS-2026-00729,NSX_0258,Sravani Koukuntla,2026-02-13,Testing,8.0,QA Manual,HealthStream,Amol Patalay,Open
+TS-2026-00685,NSX_0141,Subbaraju Chappidi,2026-02-09,Testing,8.0,QA  Automation,Healthstream,Amol  Patalay,Open
+TS-2026-00685,NSX_0141,Subbaraju Chappidi,2026-02-10,Testing,8.0,QA  Automation,Healthstream,Amol  Patalay,Open
+TS-2026-00685,NSX_0141,Subbaraju Chappidi,2026-02-11,Testing,8.0,QA  Automation,Healthstream,Amol  Patalay,Open
+TS-2026-00685,NSX_0141,Subbaraju Chappidi,2026-02-12,Testing,8.0,QA  Automation,Healthstream,Amol  Patalay,Open
+TS-2026-00685,NSX_0141,Subbaraju Chappidi,2026-02-13,Testing,8.0,QA  Automation,Healthstream,Amol  Patalay,Open
+TS-2026-00770,NSX_0392,Sujikar Reddy Varidireddy,2026-02-09,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00770,NSX_0392,Sujikar Reddy Varidireddy,2026-02-09,Communication,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00770,NSX_0392,Sujikar Reddy Varidireddy,2026-02-09,Meetings,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00770,NSX_0392,Sujikar Reddy Varidireddy,2026-02-09,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00770,NSX_0392,Sujikar Reddy Varidireddy,2026-02-09,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00771,NSX_0392,Sujikar Reddy Varidireddy,2026-02-10,Meetings,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00771,NSX_0392,Sujikar Reddy Varidireddy,2026-02-10,Communication,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00771,NSX_0392,Sujikar Reddy Varidireddy,2026-02-10,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00771,NSX_0392,Sujikar Reddy Varidireddy,2026-02-10,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00771,NSX_0392,Sujikar Reddy Varidireddy,2026-02-10,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00772,NSX_0392,Sujikar Reddy Varidireddy,2026-02-11,Meetings,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00772,NSX_0392,Sujikar Reddy Varidireddy,2026-02-11,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00772,NSX_0392,Sujikar Reddy Varidireddy,2026-02-11,Communication,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00772,NSX_0392,Sujikar Reddy Varidireddy,2026-02-11,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00772,NSX_0392,Sujikar Reddy Varidireddy,2026-02-11,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00773,NSX_0392,Sujikar Reddy Varidireddy,2026-02-12,Meetings,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00773,NSX_0392,Sujikar Reddy Varidireddy,2026-02-12,Communication,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00773,NSX_0392,Sujikar Reddy Varidireddy,2026-02-12,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00773,NSX_0392,Sujikar Reddy Varidireddy,2026-02-12,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00773,NSX_0392,Sujikar Reddy Varidireddy,2026-02-12,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00774,NSX_0392,Sujikar Reddy Varidireddy,2026-02-13,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00774,NSX_0392,Sujikar Reddy Varidireddy,2026-02-13,Meetings,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00774,NSX_0392,Sujikar Reddy Varidireddy,2026-02-13,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00774,NSX_0392,Sujikar Reddy Varidireddy,2026-02-13,Communication,1.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00774,NSX_0392,Sujikar Reddy Varidireddy,2026-02-13,Development,2.0,Gen AI Lab 3.0,SHI,Vishal Kumar,Open
+TS-2026-00735,NSX_0419,Suneel Kumar Reddy Vaka,2026-02-09,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00735,NSX_0419,Suneel Kumar Reddy Vaka,2026-02-10,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00735,NSX_0419,Suneel Kumar Reddy Vaka,2026-02-11,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00735,NSX_0419,Suneel Kumar Reddy Vaka,2026-02-12,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00735,NSX_0419,Suneel Kumar Reddy Vaka,2026-02-13,Development,8.0,Gen AI Lab 3.0,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00679,NSX_0428,Suresh Babu Konapuram,2026-02-09,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00679,NSX_0428,Suresh Babu Konapuram,2026-02-10,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00679,NSX_0428,Suresh Babu Konapuram,2026-02-11,Integration and Deployment,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00679,NSX_0428,Suresh Babu Konapuram,2026-02-12,Code Review,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00679,NSX_0428,Suresh Babu Konapuram,2026-02-13,Development,8.0,Populus  Engineering,Populus,Mohin Shaik,Approved
+TS-2026-00686,NSX_C0105,Suresh Goparaju,2026-02-09,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00686,NSX_C0105,Suresh Goparaju,2026-02-10,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00686,NSX_C0105,Suresh Goparaju,2026-02-11,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00686,NSX_C0105,Suresh Goparaju,2026-02-12,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00686,NSX_C0105,Suresh Goparaju,2026-02-13,Testing,8.0,QA  Automation,Healthstream,Chappidi Subba Raju,Approved
+TS-2026-00693,NSX_0361,SwamiNaidu Seepana,2026-02-09,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00693,NSX_0361,SwamiNaidu Seepana,2026-02-10,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00693,NSX_0361,SwamiNaidu Seepana,2026-02-11,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00693,NSX_0361,SwamiNaidu Seepana,2026-02-12,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00693,NSX_0361,SwamiNaidu Seepana,2026-02-13,Testing,8.0,QA Automation,HealthStream,Chappidi Subba Raju,Approved
+TS-2026-00737,NSX_0218,Syam Sundar Devarakonda,2026-02-09,Execution,8.0,Finance Support,NStarX-SG&A,Angshuman Patra,Approved
+TS-2026-00737,NSX_0218,Syam Sundar Devarakonda,2026-02-10,Execution,8.0,Finance Support,NStarX-SG&A,Angshuman Patra,Approved
+TS-2026-00737,NSX_0218,Syam Sundar Devarakonda,2026-02-11,Execution,8.0,Finance Support,NStarX-SG&A,Angshuman Patra,Approved
+TS-2026-00737,NSX_0218,Syam Sundar Devarakonda,2026-02-12,Execution,8.0,Finance Support,NStarX-SG&A,Angshuman Patra,Approved
+TS-2026-00737,NSX_0218,Syam Sundar Devarakonda,2026-02-13,Execution,8.0,Finance Support,NStarX-SG&A,Angshuman Patra,Approved
+TS-2026-00705,NSX_0325,Tejaswani Kambampati,2026-02-09,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00705,NSX_0325,Tejaswani Kambampati,2026-02-10,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00705,NSX_0325,Tejaswani Kambampati,2026-02-11,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00705,NSX_0325,Tejaswani Kambampati,2026-02-12,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00705,NSX_0325,Tejaswani Kambampati,2026-02-13,Development,8.0,CMD,Healthstream,Saiteja Ramagiri,Approved
+TS-2026-00667,NSX_0423,Thota Naresh,2026-02-09,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00667,NSX_0423,Thota Naresh,2026-02-10,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00667,NSX_0423,Thota Naresh,2026-02-11,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00667,NSX_0423,Thota Naresh,2026-02-12,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00667,NSX_0423,Thota Naresh,2026-02-13,Development,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00745,NSX_0342,Uday kiran Y,2026-02-09,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00743,NSX_0342,Uday kiran Y,2026-02-09,Development,8.0,Web Developer,TestEquity,Amol  Patalay,Open
+TS-2026-00745,NSX_0342,Uday kiran Y,2026-02-10,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00743,NSX_0342,Uday kiran Y,2026-02-10,Development,8.0,Web Developer,TestEquity,Amol  Patalay,Open
+TS-2026-00743,NSX_0342,Uday kiran Y,2026-02-11,Development,8.0,Web Developer,TestEquity,Amol  Patalay,Open
+TS-2026-00745,NSX_0342,Uday kiran Y,2026-02-11,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00743,NSX_0342,Uday kiran Y,2026-02-12,Development,8.0,Web Developer,TestEquity,Amol  Patalay,Open
+TS-2026-00745,NSX_0342,Uday kiran Y,2026-02-12,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00743,NSX_0342,Uday kiran Y,2026-02-13,Development,8.0,Web Developer,TestEquity,Amol  Patalay,Open
+TS-2026-00745,NSX_0342,Uday kiran Y,2026-02-13,Development,4.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00741,NSX_0402,Vaibhav Mittal,2026-02-09,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00741,NSX_0402,Vaibhav Mittal,2026-02-10,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00741,NSX_0402,Vaibhav Mittal,2026-02-11,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00741,NSX_0402,Vaibhav Mittal,2026-02-12,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00741,NSX_0402,Vaibhav Mittal,2026-02-13,Development,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00692,NSX_0451,Vaishnavi Anaboina,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00692,NSX_0451,Vaishnavi Anaboina,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00692,NSX_0451,Vaishnavi Anaboina,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00692,NSX_0451,Vaishnavi Anaboina,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00692,NSX_0451,Vaishnavi Anaboina,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00702,NSX_0441,Venkat Murthy Velamala,2026-02-09,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00702,NSX_0441,Venkat Murthy Velamala,2026-02-10,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00702,NSX_0441,Venkat Murthy Velamala,2026-02-11,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00702,NSX_0441,Venkat Murthy Velamala,2026-02-12,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00702,NSX_0441,Venkat Murthy Velamala,2026-02-13,Research,8.0,Sustenance Engineering,HealthStream,Amol Patalay,Open
+TS-2026-00654,NSX_0454,Venkata Gopal Krishna Murty,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00654,NSX_0454,Venkata Gopal Krishna Murty,2026-02-10,Research,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00654,NSX_0454,Venkata Gopal Krishna Murty,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00654,NSX_0454,Venkata Gopal Krishna Murty,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00654,NSX_0454,Venkata Gopal Krishna Murty,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Open
+TS-2026-00675,NSX_0347,Venkata Lalitha Suresh Emani,2026-02-09,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00675,NSX_0347,Venkata Lalitha Suresh Emani,2026-02-10,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00675,NSX_0347,Venkata Lalitha Suresh Emani,2026-02-11,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00675,NSX_0347,Venkata Lalitha Suresh Emani,2026-02-12,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00675,NSX_0347,Venkata Lalitha Suresh Emani,2026-02-13,Development,8.0,Web Developer,TestEquity,Amol Patalay,Open
+TS-2026-00704,NSX_0405,Venkata Santosh Krishna Teja Ghanta,2026-02-09,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00704,NSX_0405,Venkata Santosh Krishna Teja Ghanta,2026-02-10,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00704,NSX_0405,Venkata Santosh Krishna Teja Ghanta,2026-02-11,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00704,NSX_0405,Venkata Santosh Krishna Teja Ghanta,2026-02-12,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00704,NSX_0405,Venkata Santosh Krishna Teja Ghanta,2026-02-13,Development,8.0,GME Manager,Sousa Venture,Mohin Shaik,Approved
+TS-2026-00724,NSX_0349,Vikram Dattatray Danvale,2026-02-09,Testing,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00724,NSX_0349,Vikram Dattatray Danvale,2026-02-11,Testing,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00724,NSX_0349,Vikram Dattatray Danvale,2026-02-12,Testing,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00724,NSX_0349,Vikram Dattatray Danvale,2026-02-13,Testing,8.0,EUC Phase 2 Extension,SHI,Bellum Sai Siva Rama,Approved
+TS-2026-00740,NSX_0391,Vishal Kumar,2026-02-09,Execution,8.0,Management,Internal,Angshuman Patra,Approved
+TS-2026-00740,NSX_0391,Vishal Kumar,2026-02-10,Execution,8.0,Management,Internal,Angshuman Patra,Approved
+TS-2026-00740,NSX_0391,Vishal Kumar,2026-02-11,Execution,8.0,Management,Internal,Angshuman Patra,Approved
+TS-2026-00740,NSX_0391,Vishal Kumar,2026-02-12,Execution,8.0,Management,Internal,Angshuman Patra,Approved
+TS-2026-00740,NSX_0391,Vishal Kumar,2026-02-13,Execution,8.0,Management,Internal,Angshuman Patra,Approved
+TS-2026-00793,NSX_C0185,Yassir Benhammou,2026-02-09,Proposal Writing,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00793,NSX_C0185,Yassir Benhammou,2026-02-10,Proposal Writing,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00793,NSX_C0185,Yassir Benhammou,2026-02-11,Proposal Writing,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00793,NSX_C0185,Yassir Benhammou,2026-02-12,Proposal Writing,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00793,NSX_C0185,Yassir Benhammou,2026-02-13,Proposal Writing,8.0,Sales,NStarX-SG&A,Sujay Kumar,Approved
+TS-2026-00673,NSX_0102,Younus Shaik,2026-02-09,HR Activities,8.0,HR Support,NStarX-SG&A,Vishal Kumar,Approved
+TS-2026-00673,NSX_0102,Younus Shaik,2026-02-10,HR Activities,8.0,HR Support,NStarX-SG&A,Vishal Kumar,Approved
+TS-2026-00673,NSX_0102,Younus Shaik,2026-02-11,HR Activities,8.0,HR Support,NStarX-SG&A,Vishal Kumar,Approved
+TS-2026-00673,NSX_0102,Younus Shaik,2026-02-12,HR Activities,8.0,HR Support,NStarX-SG&A,Vishal Kumar,Approved
+TS-2026-00673,NSX_0102,Younus Shaik,2026-02-13,HR Activities,8.0,HR Support,NStarX-SG&A,Vishal Kumar,Approved
+Total,,,,,3388.041944,,,,
